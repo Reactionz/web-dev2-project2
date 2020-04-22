@@ -77,7 +77,7 @@ Make sure that your form retains values and use password hashing.
 
                         header("location: home.php");
                     } else {
-                        echo "bro, why are you trying to log in to someone's account with the wrong password? Crazy.";
+                        echo "bro, why are you trying to log in to someone's account with the wrong password?";
                     }
 
                 } else {
