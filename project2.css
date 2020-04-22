@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+    display: block;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.nav-link:hover {
+    background: lightblue;
+    font-weight: bold;
+}
+
+.container {
+    white-space: pre;
+}
+
+.product-item {
+    display: block;
+}
+
+/* .product {
+    width: 400px;
+    height: 200px;
+}
+
+.product .product-img {
+    width: 100%;
+    height: auto;
+} */
