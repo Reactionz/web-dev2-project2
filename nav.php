@@ -3,6 +3,7 @@ This will be a navigation bar that displays different links based on whether or 
 If a user is not logged in, display links to login.php and for final project proposal (HW 10). 
 Otherwise, display links to store.php, cart.php, logout.php, and your final project proposal (HW 10).
  -->
+<?php DEFINE("USERSTORE", "Lawrence's Web Store"); ?>
 
     <nav class = "navbar navbar-expand-lg navbar-dark bg-primary">
         

@@ -8,8 +8,6 @@ require_once "utilities.php";
 require_once "connect.php";
 
 $userName = ( isset($_SESSION['username']) ? $_SESSION['username'] : null);
-DEFINE("STYLESHEET", "project2.css");
-DEFINE("USERSTORE", "Lawrence's Store");
 
 ?>
 

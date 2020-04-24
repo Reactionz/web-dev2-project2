@@ -106,6 +106,7 @@ Make sure that your form retains values and use password hashing.
     <html>
         <?php require_once "head.php"; ?>
     <body>
+        <a href = "home.php"> Back to Home Page </a>
         <form method = "POST">
                 <div class="form-group">
                     <label for ="username"> User Name : </label> 
